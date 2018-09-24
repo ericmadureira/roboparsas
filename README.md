@@ -1,4 +1,4 @@
-# robofriends
+# roboparsas
 
 [pt-BR]  
 Minha tentativa do exemplo desenvolvido no curso de React da udemy (the-complete-web-developer-in-2018)  
